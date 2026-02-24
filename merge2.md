@@ -1,1 +1,1 @@
-This is my merge2 document (iss1)
+This is my merge2document (iss1)
